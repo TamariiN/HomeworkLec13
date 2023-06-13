@@ -1,0 +1,141 @@
+@media screen and (min-width:1440px){
+    header{
+        gap: 40%;
+    }
+    .rba h4{
+        text-align: center;
+    }
+    .rba:hover{
+        background-color: var(--dblue);
+    }
+    .rba h4:hover{
+        color: var(--cwhite);
+    }
+    .rba-2:hover{
+        background: linear-gradient(135deg, #A060FF 0%, #CB30E3 49.21%, #FFA84E 100%);
+        border: none;
+    }
+    .inner1{
+        margin-top: 110px;
+        flex-direction: row;
+        margin-left: 500px;
+        position: relative;
+    }
+    .double-div{
+        position: absolute;
+    }
+    .numbers{
+        flex-direction: column;
+        margin-left: 450px;
+    }
+    .texts{
+        margin-left: -300px;
+    }
+    .inner2{
+        width: 1109px;
+        height: 500px;
+        margin-top: 600px;
+        flex-direction: row;
+        align-items: end;
+    }
+    .person img{
+        height: 600px;
+        
+    }
+    .person{
+        bottom: 0px;
+        right: 700px;
+    }
+    .rcl-2{
+        margin-right: 80px;
+        margin-bottom: 200px;
+    }
+    .texts-works{
+        align-items: start;
+        padding-right: 150px;
+    }
+    .texts-works p{
+        text-align: start;
+        width: 350px;
+    }
+   
+    
+    h1{
+        font-size: 72px;
+        line-height: 78px;
+        letter-spacing: -1px;
+        width: 635px;
+    }
+    .texts p{
+        font-size: 18px;
+        line-height: 32px;
+        letter-spacing: 0.1px;
+        width: 350px;
+    }
+    .mob-imgg{
+        width: 350px;
+        height: 600px;
+    }
+    .mob-imgg img{
+        width: 217px;
+        margin-top: 218px;
+    }
+
+
+    /* .main{
+        width: 100%;
+    } */
+    /* .inner1{
+        flex-direction: row;
+
+        position: relative;
+    }
+    .numbers{
+        flex-direction: column;
+        position: absolute;
+        left: 500px;
+        top: 50px;
+        gap: 55px;
+    }
+    .texts{
+        left: -466px;
+    }
+    .texts img{
+        width: 287px;
+    }
+    .mob-imgg{
+        width: 350px;
+        height: 600px;
+    }
+    .mob-imgg img{
+        width: 217px;
+        margin-top: 218px;
+    }
+    h1{
+        font-size: 72px;
+        line-height: 78px;
+        letter-spacing: -1px;
+        width: 635px;
+    }
+    .texts p{
+        font-size: 18px;
+        line-height: 32px;
+        letter-spacing: 0.1px;
+        width: 350px;
+    }
+    .inner2{
+        width: 1109px;
+        height: 545px;
+        flex-direction: row;
+        gap: 40px;
+    }
+    .texts-works{
+        align-items: start;
+        margin-left: 50px;
+    }
+    .texts-works p{
+        text-align: start;
+        width: 350px;
+        height: 175px;
+    } */
+}
